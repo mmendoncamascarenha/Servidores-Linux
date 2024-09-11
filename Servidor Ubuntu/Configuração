@@ -1,5 +1,0 @@
-#Atualiza a lista de pacotes disponíveis e suas versões, mas não instala ou atualiza nenhum pacote
-sudo apt update
-
-
-
